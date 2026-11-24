@@ -1,0 +1,28 @@
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# SQLite databases
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Raw datasets
+data/raw/*
+
+# Backups and test databases
+backups/
+repro_test/
+
+# Local files
+.env
+.env.*
+!.env.example
+.cursor/
+.DS_Store

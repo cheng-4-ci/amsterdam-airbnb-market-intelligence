@@ -1,0 +1,2 @@
+total_entire_homes,priced_listings,missing_prices,missing_rate,median_price,p25,p75,iqr,upper_fence,high_price_count,full_mean,mean_without_high_prices
+8579,4320,4259,49.64,332.0,250.0,456.0,206.0,765.0,263,401.23,348.81
